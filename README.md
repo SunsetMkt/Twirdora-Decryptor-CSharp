@@ -4,7 +4,7 @@ Encrypt or decrypt files with [Twirdora](https://www.taptap.cn/app/212893) ([Qoo
 
 This project is for educational purposes only.
 
-This encryption method is used to encrypt `PlayerData.json` (save data) and `.wdnmd` files (game assets) in earlier versions of Twirdora. Since they no longer encrypt game assets, I think it's moral to disclose this project.
+This encryption method is used to encrypt `PlayerData.json` (save data) and `.wdnmd` files (game assets) in earlier versions (`1.0.*`) of Twirdora. Since they no longer encrypt game assets, I think it's moral to disclose this project.
 
 ## With the help of
 

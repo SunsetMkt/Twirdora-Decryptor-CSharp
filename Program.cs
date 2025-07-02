@@ -19,7 +19,7 @@ namespace AESDecryptor
                 Console.WriteLine("Usage: Twirdora-Decryptor.exe <encrypt|decrypt> <input_file> <output_file>");
                 Console.WriteLine("Usage: Twirdora-Decryptor.exe batchdecrypt <Twirdora Android Data Directory> <Output Directory>");
                 Console.WriteLine("Encrypt or decrypt files with Twirdora AES algorithm.");
-                Console.WriteLine("Tested on Twirdora 1.0.18");
+                Console.WriteLine("Tested on Twirdora 1.2.4");
                 return;
             }
 
