@@ -14,6 +14,7 @@ Tools:
 
 -   <https://github.com/Perfare/Il2CppDumper>
 -   <https://hex-rays.com/ida-pro>
+-   <https://github.com/Perfare/AssetStudio>
 
 AES.cs: <https://blog.51cto.com/u_15067234/4312706>
 
