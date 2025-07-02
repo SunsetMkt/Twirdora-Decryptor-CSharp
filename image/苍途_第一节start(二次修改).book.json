@@ -1,0 +1,3486 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 621
+  },
+  "m_Name": "苍途_第一节start(二次修改).book",
+  "importVersion": 0,
+  "importGridList": [
+    {
+      "rows": [
+        {
+          "rowIndex": 0,
+          "strings": [
+            "Command",
+            "Arg1",
+            "Arg2",
+            "Arg3",
+            "Arg4",
+            "Arg5",
+            "Arg6",
+            "WaitType",
+            "Text",
+            "PageCtrl",
+            "Voice",
+            "WindowType"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        }
+      ],
+      "name": "Assets/Resources/StoryMode/苍途_第一节start(二次修改).xls:Start",
+      "type": 1,
+      "textLength": 66,
+      "headerRow": 0,
+      "entityIndexTbl": [],
+      "entityDataList": []
+    },
+    {
+      "rows": [
+        {
+          "rowIndex": 0,
+          "strings": [
+            "Command",
+            "Arg1",
+            "Arg2",
+            "Arg3",
+            "Arg4",
+            "Arg5",
+            "Arg6",
+            "WaitType",
+            "Text",
+            "PageCtrl",
+            "Voice",
+            "WindowType"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 1,
+          "strings": [
+            "*C11",
+            "",
+            "",
+            ""
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 2,
+          "strings": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "F.S. 547 年，雪月 28 日\n韦德洛与苍途交界地的小镇，冒险者行会"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 3,
+          "strings": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "炉火熊熊燃烧着，时不时可以听见炭火和树枝的噼啪作响。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 4,
+          "strings": [
+            "Bg",
+            "据点",
+            "",
+            "背景",
+            "",
+            "",
+            "2"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 5,
+          "strings": [
+            "Character",
+            "克洛托",
+            "普通（右）",
+            "中"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 6,
+          "strings": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "克洛托无所事事地站在排成一列的队伍中，目光也随着思绪漫无目的地在大厅里来回挪移。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 7,
+          "strings": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "最终，她将视线锁定在壁炉旁的座位上，那里有几位正悠闲地玩着牌的冒险者。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 8,
+          "strings": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "——然而，她仅仅是默默地注视着桌上散落的金币和筹码。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 9,
+          "strings": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "其思绪本身，却漫无边际地飘到了连她自己也说不清的某个角落。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 10,
+          "strings": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "——自旧又旧纪结束以来，人类已经度过了数百年的时光。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 11,
+          "strings": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "在这期间，诞生了被人们称作“冒险者”的职业。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 12,
+          "strings": [
+            "CharacterOff",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "“冒险者”，原本是对开拓城邦外未被探明的土地、籍此扩展人类生存空间的人们的称呼。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 13,
+          "strings": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "在各国的默许和有识之士的带领下，怀着“将一切未知探明”的信条，冒险者的活动范围开始不断拓展。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 14,
+          "strings": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "如今，冒险者已经成为了被允许在各国间自由流动、由冒险者协会宽松管理着的中立团体。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 15,
+          "strings": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "其足迹也已几乎遍布世界各地，可以说是人类这一种族中名副其实的“探索者”和“拓荒者”。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 16,
+          "strings": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "为了方便冒险者的自由活动，各国稍具规模的城镇都设置了由冒险者协会经营的场所。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 17,
+          "strings": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "比如克洛托所在的行会，就在苍途王国和韦德洛王国交界地带的镇上。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 18,
+          "strings": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "而在这里，刚刚完成训练任务的她，即将再次回到属于孤身一人的旅途。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 19,
+          "strings": [
+            "Character",
+            "克洛托",
+            "普通（右）",
+            "中",
+            "",
+            "",
+            "",
+            "",
+            "接下来……该去哪里呢？"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 20,
+          "strings": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "克洛托又想起了这个在每段旅程结束之时，自己都会第一时间考虑的问题。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 21,
+          "strings": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "——然而，她惊讶地发现，唯独这一次，已经没有这一必要。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 22,
+          "strings": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "与往常不同，接下来这场旅程的目的地，克洛托其实早已在心中加以确定。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 23,
+          "strings": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "那是她期待已久、无限向往并怀念、也是最终一定要去的地方。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 24,
+          "strings": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "意识到这一点，克洛托久违地感到如释重负；但那只是一瞬间。很快，她的心情变得五味杂陈。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 25,
+          "strings": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "「还在担心什么呢，克洛托？」她对自己说道。\n无需犹豫。只要完成这次旅程，就再也不用——"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 26,
+          "strings": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "“果然在这儿啊，克洛托。”"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 27,
+          "strings": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "——前、前辈？！"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 28,
+          "strings": [
+            "Character",
+            "克洛托",
+            "普通（右）",
+            "右"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 29,
+          "strings": [
+            "Character",
+            "乌尔德",
+            "普通（左）",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "几个月没见面而已，至于这么惊讶么？"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 30,
+          "strings": [
+            "",
+            "乌尔德",
+            "普通（左）",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "不过，你脸色倒是好多了，所以我才说，多沾沾新人的地气，对你是有好处的。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 31,
+          "strings": [
+            "",
+            "克洛托",
+            "普通（右）",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "您——乌尔德前辈怎么会在这里？\n您不是去紧急处理行会分发给您的指名委托了吗？"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 32,
+          "strings": [
+            "",
+            "乌尔德",
+            "普通（左）",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "虽然确实比预想中紧急不少，但工作的第一阶段完成得很顺利，而且也该找其他人接手啦。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 33,
+          "strings": [
+            "",
+            "乌尔德",
+            "普通（左）",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "先不谈这个。你教导新人也很有一套嘛！"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 34,
+          "strings": [
+            "",
+            "乌尔德",
+            "普通（左）",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "那个接待员，对你接手的新人评价可是挺高的。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 35,
+          "strings": [
+            "",
+            "克洛托",
+            "普通（右）",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "……毕竟您当初也是这样教导我的，我只是依葫芦画瓢罢了。嘿嘿，真令人怀念啊。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 36,
+          "strings": [
+            "",
+            "乌尔德",
+            "普通（左）",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "不必这么谦卑地夸奖我。不过，我不否认很高兴你这样想。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 37,
+          "strings": [
+            "",
+            "乌尔德",
+            "普通（左）",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "我之所以建议你像这样尝试新的工作，\n目的是为了让你从先前那样专注过度的状态中稍微放松放松，以此调剂一下心情。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 38,
+          "strings": [
+            "",
+            "乌尔德",
+            "普通（左）",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "但是，以你的性格，应该不会这么简单地安下心来吧？"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 39,
+          "strings": [
+            "",
+            "乌尔德",
+            "普通（左）",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "能告诉我你接下来的打算吗？该不会……是去<b>会荒城</b>吧？"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 40,
+          "strings": [
+            "",
+            "克洛托",
+            "普通（右）",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "……！"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 41,
+          "strings": [
+            "",
+            "乌尔德",
+            "普通（左）",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "这么长时间以来，我从未见过有人能像你这样不计后果地执着于某个目标。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 42,
+          "strings": [
+            "",
+            "乌尔德",
+            "普通（左）",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "<b>简直就像由于走投无路而紧握最后希望不放的人一样。</b>"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 43,
+          "strings": [
+            "",
+            "克洛托",
+            "普通（右）",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "……"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 44,
+          "strings": [
+            "",
+            "克洛托",
+            "普通（右）",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "真是对不起，让前辈担心了，我会照顾好自己的。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 45,
+          "strings": [
+            "",
+            "乌尔德",
+            "普通（左）",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "“照顾好自己”……？"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 46,
+          "strings": [
+            "",
+            "乌尔德",
+            "普通（左）",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "要是真能做得到这一点的话，我也不至于对你这么费心……"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 47,
+          "strings": [
+            "",
+            "乌尔德",
+            "普通（左）",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "我并不是在否认你的能力。起码，在弓术这方面，你恐怕已经超过我了吧。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 48,
+          "strings": [
+            "",
+            "乌尔德",
+            "普通（左）",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "但是，克洛托，与你热心于帮助陷入困境的冒险者和后辈们相反，你实在很少为自身着想。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 49,
+          "strings": [
+            "",
+            "乌尔德",
+            "普通（左）",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "面对自己的目标，「只要能达成想要的结果，无论自己将付出什么都无关紧要。」"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 50,
+          "strings": [
+            "",
+            "乌尔德",
+            "普通（左）",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "——这种想法未免太极端了。这样子可算不上是成熟的吟游诗人啊，克洛托。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 51,
+          "strings": [
+            "",
+            "克洛托",
+            "普通（右）",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "您，难道已经……"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 52,
+          "strings": [
+            "",
+            "乌尔德",
+            "普通（左）",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "只要目睹过会荒城的惨状，察觉到你在骗我就只是时间问题。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 53,
+          "strings": [
+            "",
+            "乌尔德",
+            "普通（左）",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "明明根本藏不住心思，却硬要骗我。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 54,
+          "strings": [
+            "",
+            "乌尔德",
+            "普通（左）",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "「已经彻底没救了。谢谢前辈的帮助，今后不必再继续为我曾提出的那些请求费心。」"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 55,
+          "strings": [
+            "",
+            "乌尔德",
+            "普通（左）",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "这话是你是怎么说得出口的？以我对你的了解，很难相信你会轻易放弃。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 56,
+          "strings": [
+            "",
+            "乌尔德",
+            "普通（左）",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "所以，为了确认实情，我便亲自去了一趟会荒城。啧，这可着实费了好大一番工夫。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 57,
+          "strings": [
+            "",
+            "乌尔德",
+            "普通（左）",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "哼，想不到吧？"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 58,
+          "strings": [
+            "",
+            "克洛托",
+            "普通（右）",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "？！"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 59,
+          "strings": [
+            "",
+            "乌尔德",
+            "普通（左）",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "你这孩子真是……就算是出于好意，不想牵扯不相关的人，那也得有个限度；\n一个人扛着这么多事情，早晚会把自己累垮的！"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 60,
+          "strings": [
+            "",
+            "乌尔德",
+            "普通（左）",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "就算是天资聪颖如你也得看清楚自己的极限在哪里才行。稍微学会珍惜自己，知道吗？"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 61,
+          "strings": [
+            "",
+            "乌尔德",
+            "普通（左）",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "不然就会像现在一样犯傻，脑子里都是不切实际的幻想！"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 62,
+          "strings": [
+            "",
+            "克洛托",
+            "普通（右）",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "……"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 63,
+          "strings": [
+            "",
+            "乌尔德",
+            "普通（左）",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "唉。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 64,
+          "strings": [
+            "",
+            "乌尔德",
+            "普通（左）",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "你看，就你这藏不住事的样子，我钓个鱼你就上当了。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 65,
+          "strings": [
+            "",
+            "乌尔德",
+            "普通（左）",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "就算大概知道你可能的打算，我也没到什么、“算无遗策”的地步啊。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 66,
+          "strings": [
+            "",
+            "乌尔德",
+            "普通（左）",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "不过有一点倒是和我担心的一模一样……以会荒城的现状来看，至少这计划对你而言绝不会导致什么完满的结果。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 67,
+          "strings": [
+            "",
+            "克洛托",
+            "普通（右）",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "<color=grey><i>（完全……被看穿了？）</i></color>"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 68,
+          "strings": [
+            "",
+            "克洛托",
+            "普通（右）",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "彻底被前辈摆了一道……果然姜还是老的辣啊。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 69,
+          "strings": [
+            "",
+            "克洛托",
+            "普通（右）",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "所以说——说起来，前辈以这种隐秘的方式来见我，似乎是第一次吧？"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 70,
+          "strings": [
+            "",
+            "克洛托",
+            "普通（右）",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "虽然并不明显，但前辈的竖琴上，还残留着反追溯和行动遮断的痕迹。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 71,
+          "strings": [
+            "",
+            "克洛托",
+            "普通（右）",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "是有要事相商，还是私下委托呢？"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 72,
+          "strings": [
+            "",
+            "乌尔德",
+            "普通（左）",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "才几个月不见，你就又有了这么大的进步啊……果然最令我自豪的学生。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 73,
+          "strings": [
+            "",
+            "乌尔德",
+            "普通（左）",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "既然这样，我想，“这次”一定是值得的。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 74,
+          "strings": [
+            "",
+            "克洛托",
+            "普通（右）",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "……？"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 75,
+          "strings": [
+            "",
+            "乌尔德",
+            "普通（左）",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "那么，进入正题。你说的没错，我确实想向你提出委托。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 76,
+          "strings": [
+            "",
+            "乌尔德",
+            "普通（左）",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "这是我个人、或者说出于我自己的心愿，希望你能接受的特殊委托。\n唉，这么说有点过分，但这次委托的真实目的——<b>实际上是为了“你”</b>。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 77,
+          "strings": [
+            "",
+            "克洛托",
+            "普通（右）",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "为了……我？"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 78,
+          "strings": [
+            "",
+            "乌尔德",
+            "普通（左）",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "刚才说过，我已经亲自去过了那里，位于远星方的“会荒城”——<b>你的故乡</b>。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 79,
+          "strings": [
+            "",
+            "乌尔德",
+            "普通（左）",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "一直以来为故乡不断奔走的你，不可能不清楚那里已经恶化到何种地步吧。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 80,
+          "strings": [
+            "",
+            "乌尔德",
+            "普通（左）",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "虽然我并不知道你打算用什么方法，但以现状来看……"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 81,
+          "strings": [
+            "",
+            "乌尔德",
+            "普通（左）",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "想要修复那片土地，一定需要很特殊的力量。你所计划的方法应该也不例外。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 82,
+          "strings": [
+            "",
+            "克洛托",
+            "普通（右）",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "……"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 83,
+          "strings": [
+            "",
+            "乌尔德",
+            "普通（左）",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "基于这个推测，我刚才试探性地问过了你：你的计划会不会导致不完满的结果。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 84,
+          "strings": [
+            "",
+            "乌尔德",
+            "普通（左）",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "<b>你没有否认。</b>"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 85,
+          "strings": [
+            "",
+            "乌尔德",
+            "普通（左）",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "和我的猜测完全一样。但是——"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 86,
+          "strings": [
+            "",
+            "乌尔德",
+            "普通（左）",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "<b>我绝不希望，我乌尔德最引以为傲的后辈，因为这种原因受到伤害，你明白吗？</b>"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 87,
+          "strings": [
+            "",
+            "克洛托",
+            "普通（右）",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "……"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 88,
+          "strings": [
+            "",
+            "乌尔德",
+            "普通（左）",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "大约是上周，我接到了紧急委托。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 89,
+          "strings": [
+            "",
+            "乌尔德",
+            "普通（左）",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "我想你大概对这一组织有所耳闻——这一委托并非直接来源于行会，而是来自传言中半自由行动半听命冒险者行会、由吟游诗人们组成的地下情报网。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 90,
+          "strings": [
+            "",
+            "乌尔德",
+            "普通（左）",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "实际上我在那里算是担任了一点，呃，还算重要的职务吧。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 91,
+          "strings": [
+            "",
+            "乌尔德",
+            "普通（左）",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "得知这一委托的瞬间，我就想到了你。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 92,
+          "strings": [
+            "",
+            "乌尔德",
+            "普通（左）",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "你是我最信任的后辈；而且这一委托内容的核心，我想对你应该有所帮助——但这都看你的理解。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 93,
+          "strings": [
+            "",
+            "克洛托",
+            "普通（右）",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "……请您继续说。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 94,
+          "strings": [
+            "",
+            "乌尔德",
+            "普通（左）",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "那么，我就直说了吧？"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 95,
+          "strings": [
+            "",
+            "乌尔德",
+            "普通（左）",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "不知你是否听说过那件只存在于吟游诗人们传唱的史诗里的宝物……"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 96,
+          "strings": [
+            "",
+            "乌尔德",
+            "普通（左）",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "——自神界降临、遗留于世的钥匙，<b>“门之石”</b>。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 97,
+          "strings": [
+            "FadeOut",
+            "black",
+            "",
+            "",
+            "",
+            "",
+            "2"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 98,
+          "strings": [
+            "BgOff"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 99,
+          "strings": [
+            "EndScenario"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 100,
+          "strings": [
+            "*C12"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 101,
+          "strings": [
+            "Bg",
+            "工厂",
+            "",
+            ""
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 102,
+          "strings": [
+            "Character",
+            "麦若",
+            "普通（右）",
+            "中",
+            "",
+            "",
+            "",
+            "",
+            "这是第一章第二节"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 103,
+          "strings": [
+            "Shake",
+            "麦若",
+            "",
+            "y=10 time=0.3"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 104,
+          "strings": [
+            "CharacterOff"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 105,
+          "strings": [
+            "EndScenario"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 106,
+          "strings": [
+            "*waitingForDisplay"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 107,
+          "strings": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "F.S. 547 年，雪月 28 日，韦德洛与苍途交界的密林。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 108,
+          "strings": [
+            "Bg",
+            "工厂",
+            "",
+            "背景"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 109,
+          "strings": [
+            "Character",
+            "麦若",
+            "普通（右）",
+            "中",
+            "",
+            "",
+            "",
+            "",
+            "前面快撑不住了！治疗师！",
+            "Next"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 110,
+          "strings": [
+            "Shake",
+            "麦若",
+            "",
+            "y=10 time=0.3"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 111,
+          "strings": [
+            "CharacterOff"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 112,
+          "strings": [
+            "Character",
+            "麦若",
+            "普通（右）",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "Next"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 113,
+          "strings": [
+            "",
+            "？？？",
+            "普通",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "别慌，应该还能再坚持一会儿。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 114,
+          "strings": [
+            "",
+            "？？？",
+            "普通",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "现在变换队形的话，和自杀没什么区别。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 115,
+          "strings": [
+            "",
+            "？？？",
+            "普通",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "在它们攻击的间歇治疗，把法术用在刀刃上。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 116,
+          "strings": [
+            "CharacterOff"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 117,
+          "strings": [
+            "Character",
+            "朵莲",
+            "普通（右）",
+            "中",
+            "",
+            "",
+            "",
+            "",
+            "明白了！"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 118,
+          "strings": [
+            "",
+            "朵莲",
+            "普通（右）",
+            "中",
+            "",
+            "",
+            "",
+            "",
+            "！"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 119,
+          "strings": [
+            "",
+            "朵莲",
+            "普通（右）",
+            "中",
+            "",
+            "",
+            "",
+            "",
+            "前辈！在后面！"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 120,
+          "strings": [
+            "CharacterOff"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 121,
+          "strings": [
+            "Character",
+            "？？？",
+            "普通（左）",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "不用担心我，先去关照剑士吧。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 122,
+          "strings": [
+            "",
+            "？？？",
+            "普通（左）",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "再分神的话，他可就真的撑不住了。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 123,
+          "strings": [
+            "",
+            "朵莲",
+            "普通（右）",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "啊——明白了！"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 124,
+          "strings": [
+            "CharacterOff"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 125,
+          "strings": [
+            "",
+            "魔物",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "嗷！"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 126,
+          "strings": [
+            "Se",
+            "吼叫",
+            "FALSE"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 127,
+          "strings": [
+            "",
+            "？？？",
+            "普通（右）",
+            "中",
+            "",
+            "",
+            "",
+            "",
+            "呵，预先埋伏好的同伴么。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 128,
+          "strings": [
+            "",
+            "？？？",
+            "普通（右）",
+            "中",
+            "",
+            "",
+            "",
+            "",
+            "想耍小伎俩偷袭我？"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 129,
+          "strings": [
+            "",
+            "魔物",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "嗷嗷嗷——"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 130,
+          "strings": [
+            "Se",
+            "吼叫",
+            "FALSE"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 131,
+          "strings": [
+            "",
+            "？？？",
+            "普通（放大）",
+            "中",
+            "",
+            "",
+            "",
+            "",
+            "不过很可惜，你选错了目标——"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 132,
+          "strings": [
+            "",
+            "？？？",
+            "普通（右）",
+            "中",
+            "",
+            "",
+            "",
+            "",
+            "——睡过去吧。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 133,
+          "strings": [
+            "Se",
+            "射箭",
+            "FALSE"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 134,
+          "strings": [
+            "Se",
+            "火球爆炸",
+            "FALSE"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 135,
+          "strings": [
+            "",
+            "？？？",
+            "普通（右）",
+            "中",
+            "",
+            "",
+            "",
+            "",
+            "就这点本事？"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 136,
+          "strings": [
+            "CharacterOff"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 137,
+          "strings": [
+            "Se",
+            "吼叫",
+            "FALSE",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "Next"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 138,
+          "strings": [
+            "Character",
+            "？？？",
+            "普通（右）",
+            "中",
+            "",
+            "",
+            "",
+            "",
+            "呼，搞定。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 139,
+          "strings": [
+            "",
+            "？？？",
+            "普通（右）",
+            "中",
+            "",
+            "",
+            "",
+            "",
+            "前后夹击么？但这连新人治疗师都能看破的潜行手段……"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 140,
+          "strings": [
+            "",
+            "？？？",
+            "普通（右）",
+            "中",
+            "",
+            "",
+            "",
+            "",
+            "真把我当成躺在长寒羊绒里的那些官员？"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 141,
+          "strings": [
+            "",
+            "？？？",
+            "普通（右）",
+            "中",
+            "",
+            "",
+            "",
+            "",
+            "话说回来，这一箭威力还真大啊，居然一击就能毙命。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 142,
+          "strings": [
+            "",
+            "？？？",
+            "普通（右）",
+            "中",
+            "",
+            "",
+            "",
+            "",
+            "看来，即使不借助那种叫做“铳”的东西，在箭矢上附着火元素也不成问题。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 143,
+          "strings": [
+            "",
+            "？？？",
+            "普通（右）",
+            "中",
+            "",
+            "",
+            "",
+            "",
+            "不愧是参考了赞普利嘉人的战斗习惯而设计出来的术式。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 144,
+          "strings": [
+            "",
+            "？？？",
+            "普通（右）",
+            "中",
+            "",
+            "",
+            "",
+            "",
+            "这种东西，那群食古不化的学究们，怕是一眼都看不上。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 145,
+          "strings": [
+            "",
+            "？？？",
+            "普通（右）",
+            "中",
+            "",
+            "",
+            "",
+            "",
+            "实际上手起来倒是挺实用的。以后可以多准备一些……"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 146,
+          "strings": [
+            "Se",
+            "脚步声",
+            "FALSE"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 147,
+          "strings": [
+            "",
+            "？？？",
+            "普通（右）",
+            "中",
+            "",
+            "",
+            "",
+            "",
+            "呃，毛皮都炸烂了……看来没法回收了。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 148,
+          "strings": [
+            "",
+            "？？？",
+            "普通（右）",
+            "中",
+            "",
+            "",
+            "",
+            "",
+            "真是的，难不成我还要给魔物上指导课吗——"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 149,
+          "strings": [
+            "CharacterOff"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 150,
+          "strings": [
+            "Character",
+            "朵莲",
+            "普通（左）",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "克洛托前辈！你没事吧？"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 151,
+          "strings": [
+            "Character",
+            "克洛托",
+            "普通（右）",
+            "右"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 152,
+          "strings": [
+            "Se",
+            "奔跑声",
+            "FALSE"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 153,
+          "strings": [
+            "",
+            "克洛托",
+            "普通（右）",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "当然没事。倒是你们，还顺利吗？"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 154,
+          "strings": [
+            "CharacterOff",
+            "朵莲"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 155,
+          "strings": [
+            "Character",
+            "穆海",
+            "普通（左）",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "是的！解、解决了……终于！"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 156,
+          "strings": [
+            "",
+            "克洛托",
+            "普通（右）",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "非常好，看来大家都表现得不错啊。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 157,
+          "strings": [
+            "",
+            "克洛托",
+            "普通（右）",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "尤其是你，奋勇当先的剑士。你很勇敢。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 158,
+          "strings": [
+            "",
+            "克洛托",
+            "普通（右）",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "主动承担了困难的战斗，还保护了后方的魔法师和治疗师。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 159,
+          "strings": [
+            "",
+            "克洛托",
+            "普通（右）",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "作为新人，真是出色的执行力。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 160,
+          "strings": [
+            "",
+            "穆海",
+            "普通（左）",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "谢谢前辈……"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 161,
+          "strings": [
+            "",
+            "穆海",
+            "普通（左）",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "唔！",
+            "Next"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 162,
+          "strings": [
+            "Shake",
+            "穆海",
+            "",
+            "x=10 time=0.3"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 163,
+          "strings": [
+            "CharacterOff",
+            "克洛托"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 164,
+          "strings": [
+            "Character",
+            "朵莲",
+            "普通（右）",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "受伤了吗！别动，我这就给你处理——"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 165,
+          "strings": [
+            "CharacterOff"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 166,
+          "strings": [
+            "Character",
+            "克洛托",
+            "普通（右）",
+            "中",
+            "",
+            "",
+            "",
+            "",
+            "停下。你也已经到极限了吧？不要再消耗仅剩的魔力了。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 167,
+          "strings": [
+            "CharacterOff"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 168,
+          "strings": [
+            "Character",
+            "朵莲",
+            "普通（左）",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "啊！是。",
+            "Next"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 169,
+          "strings": [
+            "Character",
+            "克洛托",
+            "普通（右）",
+            "右"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 170,
+          "strings": [
+            "",
+            "克洛托",
+            "普通（右）",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "把他带到那边的树桩去。来，手给我，我扶你坐下。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 171,
+          "strings": [
+            "",
+            "穆海",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "……！"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 172,
+          "strings": [
+            "Se",
+            "旋律1",
+            "FALSE",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "Next"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 173,
+          "strings": [
+            "",
+            "朵莲",
+            "普通（左）",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "咦？这是、治疗魔法？为什么吟游诗人能……"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 174,
+          "strings": [
+            "",
+            "克洛托",
+            "普通（右）",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "直觉不错嘛。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 175,
+          "strings": [
+            "",
+            "克洛托",
+            "普通（右）",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "这是……我的一位朋友，她以前最喜欢的谱子。听起来还不错吧？"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 176,
+          "strings": [
+            "",
+            "克洛托",
+            "普通（右）",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "表面上，这只是一段旋律。不过我稍微研究了一下……"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 177,
+          "strings": [
+            "",
+            "克洛托",
+            "普通（右）",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "演奏的同时，把指尖的魔力注入到琴弦里的话——"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 178,
+          "strings": [
+            "",
+            "克洛托",
+            "普通（右）",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "——就像这样。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 179,
+          "strings": [
+            "Se",
+            "旋律2",
+            "FALSE"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 180,
+          "strings": [
+            "CharacterOff"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 181,
+          "strings": [
+            "Character",
+            "穆海",
+            "普通（左）",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "伤口……不见了……",
+            "Next"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 182,
+          "strings": [
+            "Character",
+            "麦若",
+            "普通（右）",
+            "右"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 183,
+          "strings": [
+            "",
+            "麦若",
+            "普通（右）",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "神清气爽的感觉！好像美美地睡了一大觉！"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 184,
+          "strings": [
+            "CharacterOff"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 185,
+          "strings": [
+            "Character",
+            "朵莲",
+            "普通（右）",
+            "中",
+            "",
+            "",
+            "",
+            "",
+            "好、好厉害……"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 186,
+          "strings": [
+            "",
+            "朵莲",
+            "普通（右）",
+            "中",
+            "",
+            "",
+            "",
+            "",
+            "……"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 187,
+          "strings": [
+            "",
+            "朵莲",
+            "普通（右）",
+            "中",
+            "",
+            "",
+            "",
+            "",
+            "克洛托姐姐……对不起。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 188,
+          "strings": [
+            "CharacterOff"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 189,
+          "strings": [
+            "Character",
+            "克洛托",
+            "普通（右）",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "对不起？怎么突然说这个？"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 190,
+          "strings": [
+            "Character",
+            "朵莲",
+            "普通（左）",
+            "左"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 191,
+          "strings": [
+            "",
+            "朵莲",
+            "普通（左）",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "那个、我——"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 192,
+          "strings": [
+            "",
+            "克洛托",
+            "普通（右）",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "诶，先别说，我猜猜……"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 193,
+          "strings": [
+            "",
+            "克洛托",
+            "普通（右）",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "是觉得太让我操心了，对吧？"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 194,
+          "strings": [
+            "",
+            "朵莲",
+            "普通（左）",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "！"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 195,
+          "strings": [
+            "",
+            "克洛托",
+            "普通（右）",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "哼哼，你们心里在想什么，我可是一清二楚。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 196,
+          "strings": [
+            "",
+            "克洛托",
+            "普通（右）",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "作为前辈，新人的一举一动，可都绝对逃不过我的眼睛哦。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 197,
+          "strings": [
+            "",
+            "克洛托",
+            "普通（右）",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "虽说是这样，但你们要比当年的我优秀多了，大可不必为此道歉。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 198,
+          "strings": [
+            "",
+            "克洛托",
+            "普通（右）",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "要知道，那群魔物可是你们亲手解决的。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 199,
+          "strings": [
+            "",
+            "克洛托",
+            "普通（右）",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "换作刚成为冒险者时的我，可达不到这种程度。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 200,
+          "strings": [
+            "",
+            "克洛托",
+            "普通（右）",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "相比之下，我也只在“排除意外的危险”这一点上稍微起了作用而已。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 201,
+          "strings": [
+            "",
+            "克洛托",
+            "普通（右）",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "该我这个前辈先反省才是啊。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 202,
+          "strings": [
+            "",
+            "朵莲",
+            "普通（左）",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "诶？请千万别这么说！"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 203,
+          "strings": [
+            "",
+            "朵莲",
+            "普通（左）",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "我们三个都很感激克洛托小姐的指导和帮助！"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 204,
+          "strings": [
+            "",
+            "朵莲",
+            "普通（左）",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "不过，其实、也有其他原因啦……"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 205,
+          "strings": [
+            "",
+            "克洛托",
+            "普通（右）",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "哦？说来听听。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 206,
+          "strings": [
+            "CharacterOff",
+            "朵莲"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 207,
+          "strings": [
+            "Character",
+            "穆海",
+            "普通（左）",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "说真的，克洛托小姐。在见到你之前，我们想不到吟游诗人居然能这么厉害。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 208,
+          "strings": [
+            "",
+            "克洛托",
+            "普通（右）",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "“居然”……那你们觉得我应该是怎么样的呢？"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 209,
+          "strings": [
+            "CharacterOff",
+            "穆海"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 210,
+          "strings": [
+            "Character",
+            "麦若",
+            "普通（左）",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "我们仨本来都想，所谓吟游诗人，不就是除了唱歌和弹琴之外，啥都不会的拖油瓶嘛。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 211,
+          "strings": [
+            "",
+            "麦若",
+            "普通（左）",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "结果，没想到克洛托小姐你这么强……"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 212,
+          "strings": [
+            "",
+            "麦若",
+            "普通（左）",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "不仅战斗时游刃有余，治疗魔法也用得这么熟练，而且还研究过好几种元素！"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 213,
+          "strings": [
+            "",
+            "克洛托",
+            "普通（右）",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "哈哈，真是的。谁说吟游诗人只会弹弹唱唱的？"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 214,
+          "strings": [
+            "",
+            "克洛托",
+            "黑色（右）",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "……可千万，不要随便评判一个人啊。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 215,
+          "strings": [
+            "CharacterOff"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 216,
+          "strings": [
+            "Character",
+            "穆海",
+            "普通（左）",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "诶，前辈您还好吗？声音突然低下去了。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 217,
+          "strings": [
+            "Character",
+            "克洛托",
+            "普通（右）",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "啊，没什么。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 218,
+          "strings": [
+            "CharacterOff",
+            "穆海"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 219,
+          "strings": [
+            "Character",
+            "克洛托",
+            "普通（右）",
+            "中",
+            "",
+            "",
+            "",
+            "",
+            "仔细一想，我这个其实比你们大不了几岁的“前辈”对新人说这些，是不是——"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 220,
+          "strings": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "等等。你们，有听到什么动静吗？"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 221,
+          "strings": [
+            "CharacterOff"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 222,
+          "strings": [
+            "Character",
+            "朵莲",
+            "普通（左）",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "Next"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 223,
+          "strings": [
+            "Character",
+            "麦若",
+            "普通（右）",
+            "中",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "Next"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 224,
+          "strings": [
+            "Character",
+            "穆海",
+            "普通（右）",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "Next"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 225,
+          "strings": [
+            "",
+            "穆海",
+            "普通（右）",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "呿，那帮魔物还没完了！偏偏这种时候……"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 226,
+          "strings": [
+            "",
+            "麦若",
+            "普通（右）",
+            "中",
+            "",
+            "",
+            "",
+            "",
+            "打就完事了！"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 227,
+          "strings": [
+            "",
+            "朵莲",
+            "普通（左）",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "交给我吧！"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 228,
+          "strings": [
+            "",
+            "三人",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "那么，要上了——！"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 229,
+          "strings": [
+            "CharacterOff"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 230,
+          "strings": [
+            "Character",
+            "克洛托",
+            "普通（右）",
+            "中",
+            "",
+            "",
+            "",
+            "",
+            "去吧，我会继续照应你们的。一定要注意安全。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 231,
+          "strings": [
+            "CharacterOff"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 232,
+          "strings": [
+            "BgOff"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 233,
+          "strings": [
+            "EndScenario"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        }
+      ],
+      "name": "Assets/Resources/StoryMode/苍途_第一节start(二次修改).xls:Chapter1",
+      "type": 1,
+      "textLength": 6173,
+      "headerRow": 0,
+      "entityIndexTbl": [],
+      "entityDataList": []
+    }
+  ]
+}

@@ -1,0 +1,1913 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 621
+  },
+  "m_Name": "StoryMode2.book",
+  "importVersion": 0,
+  "importGridList": [
+    {
+      "rows": [
+        {
+          "rowIndex": 0,
+          "strings": [
+            "Command",
+            "Arg1",
+            "Arg2",
+            "Arg3",
+            "Arg4",
+            "Arg5",
+            "Arg6",
+            "WaitType",
+            "Text",
+            "PageCtrl",
+            "Voice",
+            "WindowType"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 1,
+          "strings": [
+            "*C21",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "血？你居然觉得为了实现所有人的愿望而战，是如此不便之事？"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 2,
+          "strings": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "焓雅，记住爸爸的话——等你长大以后，绝对不要做这些东西。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 3,
+          "strings": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "“圣所”……是你们……"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 4,
+          "strings": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "吞噬生命的洪流从不停息。把自己包装成歌颂和平的圣人，他们就能免俗了吗？"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 5,
+          "strings": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "焓雅，放弃你的天赋无异于暴殄天物……不要做这种蠢事了。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 6,
+          "strings": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "火山有火山的愤怒，而我有我的痛苦。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 7,
+          "strings": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "哼……下地狱去吧！！！"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 8,
+          "strings": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "……"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 9,
+          "strings": [
+            "FadeOut",
+            "red",
+            "",
+            "",
+            "",
+            "",
+            ".5"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 10,
+          "strings": [
+            "Bg",
+            "工厂"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 11,
+          "strings": [
+            "FadeIn",
+            "red",
+            "",
+            "",
+            "",
+            "",
+            "2"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 12,
+          "strings": [
+            "Character",
+            "焓雅",
+            "普通",
+            "右"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 13,
+          "strings": [
+            "Character",
+            "厂长",
+            "普通",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "焓雅？焓雅·伽罗瓦？？？"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 14,
+          "strings": [
+            "",
+            "焓雅",
+            "普通",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "哦——是，厂长。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 15,
+          "strings": [
+            "",
+            "焓雅",
+            "普通",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "我们刚才说到哪儿了？"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 16,
+          "strings": [
+            "",
+            "厂长",
+            "普通",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "你这丫头片子，又给我找麻烦……"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 17,
+          "strings": [
+            "",
+            "焓雅",
+            "普通",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "我再说一遍，厂长。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 18,
+          "strings": [
+            "",
+            "焓雅",
+            "普通",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "这个月的活儿我已经干完了，所以接下来的工时，请假完全是为了例行公事而已。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 19,
+          "strings": [
+            "",
+            "厂长",
+            "普通",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "好好好……我也懒得跟你这种倔脾气翻来覆去地啰嗦这些东西。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 20,
+          "strings": [
+            "",
+            "厂长",
+            "普通",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "希望等到见了伽罗瓦夫人的时候，你还能这么神气地和我说话。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 21,
+          "strings": [
+            "",
+            "焓雅",
+            "普通",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "唔……咳咳。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 22,
+          "strings": [
+            "",
+            "焓雅",
+            "普通",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "厂长，您看我都20岁了……还搞请家长这种事，是不是不太好啊。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 23,
+          "strings": [
+            "",
+            "厂长",
+            "普通",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "一次两次还不长记性，我看这也不是20岁的女孩能干出的事来。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 24,
+          "strings": [
+            "",
+            "焓雅",
+            "普通",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "厂长……"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 25,
+          "strings": [
+            "",
+            "厂长",
+            "普通",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "唉，你这孩子。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 26,
+          "strings": [
+            "",
+            "厂长",
+            "普通",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "也不知道你这么好的天赋，是好事还是坏事。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 27,
+          "strings": [
+            "",
+            "厂长",
+            "普通",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "到了。自己去敲门吧。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 28,
+          "strings": [
+            "",
+            "焓雅",
+            "普通",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "哦。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 29,
+          "strings": [
+            "CharacterOff"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 30,
+          "strings": [
+            "Character",
+            "焓雅",
+            "普通",
+            "中",
+            "",
+            "",
+            "",
+            "",
+            "老妈——今天又有客人来了哦。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 31,
+          "strings": [
+            "CharacterOff"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 32,
+          "strings": [
+            "Character",
+            "厂长",
+            "普通",
+            "左"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 33,
+          "strings": [
+            "Character",
+            "伽罗瓦夫人",
+            "普通",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "小雅回来啦！这位是……"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 34,
+          "strings": [
+            "",
+            "伽罗瓦夫人",
+            "普通",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "哦，是卡洛斯女士！一直关照我家焓雅，真是辛苦您了。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 35,
+          "strings": [
+            "",
+            "厂长",
+            "普通",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "客气了，伽罗瓦夫人。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 36,
+          "strings": [
+            "",
+            "厂长",
+            "普通",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "正因为是想要关照您的女儿，所以我才不得不来叨扰一趟。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 37,
+          "strings": [
+            "",
+            "伽罗瓦夫人",
+            "普通",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "哦——好好好，您先快进来，有什么事情咱们屋里说，在这儿应该也……不太好？"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 38,
+          "strings": [
+            "",
+            "厂长",
+            "普通",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "嗯，有劳夫人了。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 39,
+          "strings": [
+            "",
+            "伽罗瓦夫人",
+            "普通",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "（小声）小雅，你又干什么好事了！"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 40,
+          "strings": [
+            "CharacterOff"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 41,
+          "strings": [
+            "Character",
+            "焓雅",
+            "普通",
+            "中",
+            "",
+            "",
+            "",
+            "",
+            "冤枉啊，老妈……我是真的啥都没干啊。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 42,
+          "strings": [
+            "CharacterOff"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 43,
+          "strings": [
+            "Character",
+            "伽罗瓦夫人",
+            "普通",
+            "右"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 44,
+          "strings": [
+            "",
+            "厂长",
+            "普通",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "那么，为了节省您与我双方的时间，我还是长话短说。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 45,
+          "strings": [
+            "",
+            "厂长",
+            "普通",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "您的女儿最近的工作表现，其实是很优秀的——最多只能说，缺了一点团队合作精神。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 46,
+          "strings": [
+            "",
+            "伽罗瓦夫人",
+            "普通",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "您的意思是……"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 47,
+          "strings": [
+            "",
+            "厂长",
+            "普通",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "故技重施。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 48,
+          "strings": [
+            "",
+            "厂长",
+            "普通",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "焓雅小姐又一次提前完成了这个月的设计需求，然后……后面的事情，我不说，您也应该猜得到。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 49,
+          "strings": [
+            "",
+            "伽罗瓦夫人",
+            "普通",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "哦……她又去开演出了，对吗？"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 50,
+          "strings": [
+            "",
+            "厂长",
+            "普通",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "夫人，您关爱女儿的殷切之心，我们是可以理解的。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 51,
+          "strings": [
+            "",
+            "厂长",
+            "普通",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "不过，神圣狮心公爵的全国动员令，我想每一位赞普利嘉联邦公民，都不可能不知情。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 52,
+          "strings": [
+            "",
+            "厂长",
+            "普通",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "就算已故的伽罗瓦先生曾经为我们神圣的联邦立下了不可磨灭的功绩……如此开后门，独自享乐的做法，多少也让我有些难办啊。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 53,
+          "strings": [
+            "CharacterOff",
+            "伽罗瓦夫人"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 54,
+          "strings": [
+            "Character",
+            "焓雅",
+            "普通",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "厂长。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 55,
+          "strings": [
+            "",
+            "焓雅",
+            "普通",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "如果我在地下城办演出是我自己的问题，大不了处理我一个人就行了。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 56,
+          "strings": [
+            "",
+            "焓雅",
+            "普通",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "至少，请您不要再提到我的父亲了，可以吗？"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 57,
+          "strings": [
+            "CharacterOff",
+            "厂长"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 58,
+          "strings": [
+            "Character",
+            "伽罗瓦夫人",
+            "普通",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "小雅……先上楼歇着去。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 59,
+          "strings": [
+            "",
+            "焓雅",
+            "普通",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "……"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 60,
+          "strings": [
+            "CharacterOff",
+            "焓雅"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 61,
+          "strings": [
+            "Character",
+            "厂长",
+            "普通",
+            "右"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 62,
+          "strings": [
+            "Character",
+            "伽罗瓦夫人",
+            "普通",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "好吧，卡洛斯女士，您的想法我大概理解了。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 63,
+          "strings": [
+            "",
+            "伽罗瓦夫人",
+            "普通",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "那么，现在需要我这个做母亲的，帮焓雅做什么呢？"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 64,
+          "strings": [
+            "",
+            "厂长",
+            "普通",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "既然她承担了我厂设计院的工作，就请她至少每天都能出现在设计院的大楼里。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 65,
+          "strings": [
+            "",
+            "厂长",
+            "普通",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "拜托您确认她每天都能出现在设计院，这就够了……其他的事情，我可以帮忙解决。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 66,
+          "strings": [
+            "",
+            "伽罗瓦夫人",
+            "普通",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "好，我一定会尽量配合你们，随时确认小雅的位置。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 67,
+          "strings": [
+            "",
+            "厂长",
+            "普通",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "唉……如果可以的话，没有人不想像您的女儿一样活得那么自由。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 68,
+          "strings": [
+            "",
+            "厂长",
+            "普通",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "但现在是血洗国耻的决战之时，每一位公民都不能掉以轻心……这一点，希望您和您的家人都能明白。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 69,
+          "strings": [
+            "",
+            "伽罗瓦夫人",
+            "普通",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "她竟如此，我很抱歉。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 70,
+          "strings": [
+            "",
+            "伽罗瓦夫人",
+            "普通",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "请您放心，小雅这边的思想工作，就由我来做。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 71,
+          "strings": [
+            "",
+            "厂长",
+            "普通",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "虽然您不是第一次做这样的保证，不过我会像第一次那样相信您的。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 72,
+          "strings": [
+            "",
+            "厂长",
+            "普通",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "希望这一次的结果能有所不同，伽罗瓦夫人。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 73,
+          "strings": [
+            "",
+            "伽罗瓦夫人",
+            "普通",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "劳烦您折腾一趟了。这边请吧。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 74,
+          "strings": [
+            "CharacterOff"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 75,
+          "strings": [
+            "Character",
+            "伽罗瓦夫人",
+            "普通",
+            "中",
+            "",
+            "",
+            "",
+            "",
+            "……"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 76,
+          "strings": [
+            "",
+            "伽罗瓦夫人",
+            "普通",
+            "中",
+            "",
+            "",
+            "",
+            "",
+            "出来吧。每次伪装都做得这么差。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 77,
+          "strings": [
+            "CharacterOff"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 78,
+          "strings": [
+            "Character",
+            "伽罗瓦夫人",
+            "普通",
+            "右"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 79,
+          "strings": [
+            "Character",
+            "焓雅",
+            "普通",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "……"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 80,
+          "strings": [
+            "",
+            "伽罗瓦夫人",
+            "普通",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "你可真是——我是不是告诉过你，白天好好上班，爱好晚上再做了？"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 81,
+          "strings": [
+            "",
+            "焓雅",
+            "普通",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "啊……什么？"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 82,
+          "strings": [
+            "",
+            "焓雅",
+            "普通",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "不是，那老太婆走了？她就跟你说了这个？"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 83,
+          "strings": [
+            "",
+            "伽罗瓦夫人",
+            "普通",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "当然不是。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 84,
+          "strings": [
+            "",
+            "伽罗瓦夫人",
+            "普通",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "不过她就是个应声虫，你可是我亲女儿。我是向着她还是向着你，这你还用想？"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 85,
+          "strings": [
+            "",
+            "焓雅",
+            "普通",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "啊，这……"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 86,
+          "strings": [
+            "",
+            "伽罗瓦夫人",
+            "普通",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "那些联军的人消费你爸又不是一天两天了，你怎么还是一听这个就忍不住脾气，一点都不像你爸年轻的样子。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 87,
+          "strings": [
+            "",
+            "伽罗瓦夫人",
+            "普通",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "最近白天就好好上班去，画完这个月的图纸就画下个月的，反正那些东西你也应付得来。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 88,
+          "strings": [
+            "",
+            "焓雅",
+            "普通",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "妈妈……"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 89,
+          "strings": [
+            "",
+            "伽罗瓦夫人",
+            "普通",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "你啊，这方面和你爸真就是一个样。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 90,
+          "strings": [
+            "",
+            "伽罗瓦夫人",
+            "普通",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "明着喜欢噼里啪啦的神术，其实还是最喜欢玩音乐……你倒是比他好，还做出来点出息了。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 91,
+          "strings": [
+            "",
+            "焓雅",
+            "普通",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "呜，我这也是……"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 92,
+          "strings": [
+            "",
+            "伽罗瓦夫人",
+            "普通",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "不是一家人，不进一家门。谁都不想准备打仗的。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 93,
+          "strings": [
+            "",
+            "伽罗瓦夫人",
+            "普通",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "不过大势如此，既然无法改变，也只能尽量适应了。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 94,
+          "strings": [
+            "",
+            "伽罗瓦夫人",
+            "普通",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "小雅，你还适应得不够。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 95,
+          "strings": [
+            "",
+            "焓雅",
+            "普通",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "适应得不够？您的意思是……"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 96,
+          "strings": [
+            "",
+            "伽罗瓦夫人",
+            "普通",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "还愣着干什么？手，拿出来。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 97,
+          "strings": [
+            "",
+            "焓雅",
+            "普通",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "啥？不是，又要打我啊？"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 98,
+          "strings": [
+            "",
+            "伽罗瓦夫人",
+            "普通",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "打？打你个大西瓜！"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 99,
+          "strings": [
+            "",
+            "伽罗瓦夫人",
+            "普通",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "你不刚说有张新专辑要做完了，想给我听听？还不拿出来给我看一眼！"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 100,
+          "strings": [
+            "",
+            "焓雅",
+            "普通",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "啊，啥？"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 101,
+          "strings": [
+            "",
+            "焓雅",
+            "普通",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "啊——啊哈哈哈！对对，就是这个，而且用了好多我爸喜欢用的音色进去。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 102,
+          "strings": [
+            "",
+            "焓雅",
+            "普通",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "来，拿好。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 103,
+          "strings": [
+            "",
+            "伽罗瓦夫人",
+            "普通",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "哇，这么漂亮！是你自己设计的吗！"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 104,
+          "strings": [
+            "",
+            "焓雅",
+            "普通",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "那当然！这张专的东西可都是我认认真真搞下来的，没找外包；封面也是我自己搞的哦，而且用了比平时贵了一倍多的留声术式。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 105,
+          "strings": [
+            "",
+            "焓雅",
+            "普通",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "这，可是真正的限定盘！"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 106,
+          "strings": [
+            "",
+            "伽罗瓦夫人",
+            "普通",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "哦哟，那妈妈可得好好奖励你一下了。奖励你什么呢……"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 107,
+          "strings": [
+            "",
+            "焓雅",
+            "普通",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "嗯——咳咳，我都这样了，您不会还不知道吧？"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 108,
+          "strings": [
+            "",
+            "伽罗瓦夫人",
+            "普通",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "那我今晚就……"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 109,
+          "strings": [
+            "",
+            "伽罗瓦夫人",
+            "普通",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "稍微早点休息咯，然后睡个懒觉，早饭就你自己想办法解决。"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 110,
+          "strings": [
+            "",
+            "焓雅",
+            "普通",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "哦——哦！！！"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 111,
+          "strings": [
+            "",
+            "焓雅",
+            "普通",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "谢谢妈妈！！！"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 112,
+          "strings": [
+            "",
+            "伽罗瓦夫人",
+            "普通",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "我自己好好休息，你谢我什么？"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 113,
+          "strings": [
+            "",
+            "焓雅",
+            "普通",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "啊，这、这个……"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 114,
+          "strings": [
+            "",
+            "伽罗瓦夫人",
+            "普通",
+            "右",
+            "",
+            "",
+            "",
+            "",
+            "所以我才说，你还得多练！记住了吗？"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 115,
+          "strings": [
+            "",
+            "焓雅",
+            "普通",
+            "左",
+            "",
+            "",
+            "",
+            "",
+            "记住啦！哈哈——"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 116,
+          "strings": [
+            "FadeOut",
+            "black",
+            "",
+            "",
+            "",
+            "",
+            "2"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 117,
+          "strings": [
+            "BgOff"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 118,
+          "strings": [
+            "EndScenario"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 119,
+          "strings": [
+            "EndScenario"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 120,
+          "strings": [
+            "*C22"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 121,
+          "strings": [
+            "",
+            "Graphite",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "第二章第二节，石墨成为了程序组群主"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 122,
+          "strings": [
+            "",
+            "Graphite",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "第二章结束"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 123,
+          "strings": [
+            "EndScenario"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 124,
+          "strings": [
+            "*C31"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 125,
+          "strings": [
+            "",
+            "Graphite",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "第三章，石墨删库跑路"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 126,
+          "strings": [
+            "",
+            "Graphite",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "第三章结束"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 127,
+          "strings": [
+            "EndScenario"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        }
+      ],
+      "name": "Assets/Resources/StoryMode/StoryMode2.xls:Chapter21",
+      "type": 1,
+      "textLength": 2935,
+      "headerRow": 0,
+      "entityIndexTbl": [],
+      "entityDataList": []
+    }
+  ]
+}

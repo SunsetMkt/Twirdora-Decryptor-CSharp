@@ -1,0 +1,121 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 621
+  },
+  "m_Name": "StoryMode.book",
+  "importVersion": 0,
+  "importGridList": [
+    {
+      "rows": [
+        {
+          "rowIndex": 0,
+          "strings": [
+            "Command",
+            "Arg1",
+            "Arg2",
+            "Arg3",
+            "Arg4",
+            "Arg5",
+            "Arg6",
+            "WaitType",
+            "Text",
+            "PageCtrl",
+            "Voice",
+            "WindowType"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        }
+      ],
+      "name": "Assets/Resources/StoryMode/StoryMode.xls:Start",
+      "type": 1,
+      "textLength": 66,
+      "headerRow": 0,
+      "entityIndexTbl": [],
+      "entityDataList": []
+    },
+    {
+      "rows": [
+        {
+          "rowIndex": 0,
+          "strings": [
+            "Command",
+            "Arg1",
+            "Arg2",
+            "Arg3",
+            "Arg4",
+            "Arg5",
+            "Arg6",
+            "WaitType",
+            "Text",
+            "PageCtrl",
+            "Voice",
+            "WindowType"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 1,
+          "strings": [
+            "*C1"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 2,
+          "strings": [
+            "",
+            "Graphite",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "第一章，石墨来到了pandoxproject"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 3,
+          "strings": [
+            "",
+            "Graphite",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "第一章结束"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 4,
+          "strings": [
+            "EndScenario"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        }
+      ],
+      "name": "Assets/Resources/StoryMode/StoryMode.xls:Chapter1",
+      "type": 1,
+      "textLength": 123,
+      "headerRow": 0,
+      "entityIndexTbl": [],
+      "entityDataList": []
+    }
+  ]
+}

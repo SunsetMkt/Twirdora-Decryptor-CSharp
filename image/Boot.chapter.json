@@ -1,0 +1,1299 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 477
+  },
+  "m_Name": "Boot.chapter",
+  "chapterName": "",
+  "dataList": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 1822
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1823
+    }
+  ],
+  "settingList": [
+    {
+      "rows": [
+        {
+          "rowIndex": 0,
+          "strings": [
+            "CharacterName",
+            "NameText",
+            "Pattern",
+            "X",
+            "Y",
+            "Z",
+            "Pivot",
+            "Scale",
+            "Conditional",
+            "FileName",
+            "SubFileName",
+            "FileType",
+            "Animation",
+            "RenderTexture",
+            "RenderRect",
+            "EyeBlink",
+            "LipSynch",
+            "Icon",
+            "IconSubFileName",
+            "IconRect"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 1,
+          "strings": [
+            "厂长",
+            "",
+            "普通",
+            "",
+            "",
+            "",
+            "",
+            ".6",
+            "",
+            "director.png"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 2,
+          "strings": [
+            "焓雅",
+            "",
+            "普通",
+            "",
+            "",
+            "",
+            "",
+            ".6",
+            "",
+            "enthia.png"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 3,
+          "strings": [
+            "伽罗瓦夫人",
+            "",
+            "普通",
+            "",
+            "",
+            "",
+            "",
+            ".6",
+            "",
+            "liebea.png"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        }
+      ],
+      "name": "Assets/Resources/StoryMode/StoryMode2.xls:Character",
+      "type": 1,
+      "textLength": 207,
+      "headerRow": 0
+    },
+    {
+      "rows": [
+        {
+          "rowIndex": 0,
+          "strings": [
+            "Label",
+            "Type",
+            "X",
+            "Y",
+            "Z",
+            "Pivot",
+            "Scale",
+            "Conditional",
+            "FileName",
+            "FileType",
+            "SubFileName",
+            "Animation",
+            "RenderTexture",
+            "RenderRect",
+            "Thumbnail",
+            "CgCategolly"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 1,
+          "strings": [
+            "工厂",
+            "Bg",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "zanpucjivFactory.png"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        }
+      ],
+      "name": "Assets/Resources/StoryMode/StoryMode2.xls:Texture",
+      "type": 1,
+      "textLength": 136,
+      "headerRow": 0
+    },
+    {
+      "rows": [
+        {
+          "rowIndex": 0,
+          "strings": [
+            "Label",
+            "FileName"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        }
+      ],
+      "name": "Assets/Resources/StoryMode/StoryMode2.xls:Particle",
+      "type": 1,
+      "textLength": 13,
+      "headerRow": 0
+    },
+    {
+      "rows": [
+        {
+          "rowIndex": 0,
+          "strings": [
+            "LayerName",
+            "Type",
+            "X",
+            "Y",
+            "Order",
+            "LayerMask",
+            "ScaleX",
+            "ScaleY",
+            "FlipX",
+            "FlipY",
+            "Width",
+            "Height",
+            "BorderLeft",
+            "BorderRight",
+            "BorderTop",
+            "BorderBottom",
+            "Align"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        }
+      ],
+      "name": "Assets/Resources/StoryMode/StoryMode2.xls:Layer",
+      "type": 1,
+      "textLength": 109,
+      "headerRow": 0
+    },
+    {
+      "rows": [
+        {
+          "rowIndex": 0,
+          "strings": [
+            "Label",
+            "IntervalMin",
+            "IntervalMax",
+            "RandomDouble",
+            "Tag",
+            "Name0",
+            "Duration0",
+            "Name1",
+            "Duration1",
+            "Name2",
+            "Duration2",
+            "Name3",
+            "Duration3",
+            "Name4",
+            "Duration4"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        }
+      ],
+      "name": "Assets/Resources/StoryMode/StoryMode2.xls:EyeBlink",
+      "type": 1,
+      "textLength": 112,
+      "headerRow": 0
+    },
+    {
+      "rows": [
+        {
+          "rowIndex": 0,
+          "strings": [
+            "Label",
+            "Type",
+            "Interval",
+            "Tag",
+            "ScaleVoiceVolume",
+            "Name0",
+            "Duration0",
+            "Name1",
+            "Duration1",
+            "Name2",
+            "Duration2",
+            "Name3",
+            "Duration3",
+            "Name4",
+            "Duration4"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        }
+      ],
+      "name": "Assets/Resources/StoryMode/StoryMode2.xls:LipSynch",
+      "type": 1,
+      "textLength": 106,
+      "headerRow": 0
+    },
+    {
+      "rows": [
+        {
+          "rowIndex": 0,
+          "strings": [
+            "*SampleAnimation"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 1,
+          "strings": [
+            "Time",
+            "0",
+            ".5",
+            "1",
+            "1.5",
+            "2"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 2,
+          "strings": [
+            "X",
+            "0",
+            "",
+            "0",
+            "0",
+            "100"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 3,
+          "strings": [
+            "Y",
+            "-50",
+            "50",
+            "0",
+            "0",
+            "0"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 4,
+          "strings": [
+            "Angle",
+            "0",
+            "",
+            "0",
+            "0",
+            "360"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 5,
+          "strings": [
+            "ScaleX",
+            ".2",
+            "1.2",
+            "1",
+            "1",
+            "1"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 6,
+          "strings": [
+            "ScaleY",
+            ".2",
+            "1.2",
+            "1",
+            "1",
+            "1"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 7,
+          "strings": [
+            "Alpha",
+            "0",
+            "1",
+            "1",
+            "1",
+            "1"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        }
+      ],
+      "name": "Assets/Resources/StoryMode/StoryMode2.xls:Animation",
+      "type": 1,
+      "textLength": 93,
+      "headerRow": 0
+    },
+    {
+      "rows": [
+        {
+          "rowIndex": 0,
+          "strings": [
+            "Label",
+            "Title",
+            "Type",
+            "FileName",
+            "IntroTime",
+            "Volume"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        }
+      ],
+      "name": "Assets/Resources/StoryMode/StoryMode2.xls:Sound",
+      "type": 1,
+      "textLength": 37,
+      "headerRow": 0
+    },
+    {
+      "rows": [
+        {
+          "rowIndex": 0,
+          "strings": [
+            "Label",
+            "Type",
+            "Value",
+            "FileType"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        }
+      ],
+      "name": "Assets/Resources/StoryMode/StoryMode2.xls:Param",
+      "type": 1,
+      "textLength": 22,
+      "headerRow": 0
+    },
+    {
+      "rows": [
+        {
+          "rowIndex": 0,
+          "strings": [
+            "Name"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 1,
+          "strings": [
+            "Type"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 2,
+          "strings": [
+            "FileType"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        }
+      ],
+      "name": "Assets/Resources/StoryMode/StoryMode2.xls:ParamTbl{}",
+      "type": 1,
+      "textLength": 16,
+      "headerRow": 0
+    },
+    {
+      "rows": [
+        {
+          "rowIndex": 0,
+          "strings": [
+            "ScenarioLabel",
+            "Title",
+            "Thumbnail"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        }
+      ],
+      "name": "Assets/Resources/StoryMode/StoryMode2.xls:SceneGallery",
+      "type": 1,
+      "textLength": 27,
+      "headerRow": 0
+    },
+    {
+      "rows": [
+        {
+          "rowIndex": 0,
+          "strings": [
+            "Key"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        }
+      ],
+      "name": "Assets/Resources/StoryMode/StoryMode2.xls:Localize",
+      "type": 1,
+      "textLength": 3,
+      "headerRow": 0
+    },
+    {
+      "rows": [
+        {
+          "rowIndex": 0,
+          "strings": [
+            "CharacterName",
+            "NameText",
+            "Pattern",
+            "X",
+            "Y",
+            "Z",
+            "Pivot",
+            "Scale",
+            "Conditional",
+            "FileName",
+            "SubFileName",
+            "FileType",
+            "Animation",
+            "RenderTexture",
+            "RenderRect",
+            "EyeBlink",
+            "LipSynch",
+            "Icon",
+            "IconSubFileName",
+            "IconRect"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 1,
+          "strings": [
+            "穆海",
+            "",
+            "普通（右）",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "MuHaiR.png"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 2,
+          "strings": [
+            "",
+            "",
+            "普通",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "MuHai.png"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 3,
+          "strings": [
+            "",
+            "",
+            "普通（左）",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "MuHaiL.png"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 4,
+          "strings": [],
+          "isEmpty": true,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 5,
+          "strings": [
+            "麦若",
+            "",
+            "普通（右）",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "MaiRuoR.png"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 6,
+          "strings": [
+            "",
+            "",
+            "普通",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "MaiRuo.png"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 7,
+          "strings": [
+            "",
+            "",
+            "普通（左）",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "MaiRuoR.png"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 8,
+          "strings": [],
+          "isEmpty": true,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 9,
+          "strings": [
+            "朵莲",
+            "",
+            "普通（右）",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "DuoLianR.png"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 10,
+          "strings": [
+            "",
+            "",
+            "普通",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "DuoLian.png"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 11,
+          "strings": [
+            "",
+            "",
+            "普通（左）",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "DuoLianL.png"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 12,
+          "strings": [],
+          "isEmpty": true,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 13,
+          "strings": [
+            "克洛托",
+            "",
+            "普通（右）",
+            "",
+            "",
+            "",
+            "",
+            ".6",
+            "",
+            "keluotuo.png"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 14,
+          "strings": [
+            "",
+            "",
+            "普通",
+            "",
+            "",
+            "",
+            "",
+            ".6",
+            "",
+            "keluotuo.png"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 15,
+          "strings": [
+            "",
+            "",
+            "普通（左）",
+            "",
+            "",
+            "",
+            "",
+            ".6",
+            "",
+            "keluotuo.png"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 16,
+          "strings": [
+            "",
+            "",
+            "黑色（右）",
+            "",
+            "",
+            "",
+            "",
+            ".6",
+            "",
+            "keluotuo.png"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 17,
+          "strings": [],
+          "isEmpty": true,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 18,
+          "strings": [
+            "乌尔德",
+            "",
+            "普通（左）",
+            "",
+            "",
+            "",
+            "",
+            ".6",
+            "",
+            "urdl.png"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        }
+      ],
+      "name": "Assets/Resources/StoryMode/苍途_第一节start(二次修改).xls:Character",
+      "type": 1,
+      "textLength": 386,
+      "headerRow": 0
+    },
+    {
+      "rows": [
+        {
+          "rowIndex": 0,
+          "strings": [
+            "Label",
+            "Type",
+            "X",
+            "Y",
+            "Z",
+            "Pivot",
+            "Scale",
+            "Conditional",
+            "FileName",
+            "FileType",
+            "SubFileName",
+            "Animation",
+            "RenderTexture",
+            "RenderRect",
+            "Thumbnail",
+            "CgCategolly"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 1,
+          "strings": [
+            "据点",
+            "Bg",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "cjylteSite.png"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        }
+      ],
+      "name": "Assets/Resources/StoryMode/苍途_第一节start(二次修改).xls:Texture",
+      "type": 1,
+      "textLength": 130,
+      "headerRow": 0
+    },
+    {
+      "rows": [
+        {
+          "rowIndex": 0,
+          "strings": [
+            "Label",
+            "FileName"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        }
+      ],
+      "name": "Assets/Resources/StoryMode/苍途_第一节start(二次修改).xls:Particle",
+      "type": 1,
+      "textLength": 13,
+      "headerRow": 0
+    },
+    {
+      "rows": [
+        {
+          "rowIndex": 0,
+          "strings": [
+            "LayerName",
+            "Type",
+            "X",
+            "Y",
+            "Order",
+            "LayerMask",
+            "ScaleX",
+            "ScaleY",
+            "FlipX",
+            "FlipY",
+            "Width",
+            "Height",
+            "BorderLeft",
+            "BorderRight",
+            "BorderTop",
+            "BorderBottom",
+            "Align"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 1,
+          "strings": [
+            "左",
+            "Character",
+            "-540",
+            "-300",
+            "200",
+            "",
+            "2",
+            "2",
+            "",
+            "",
+            "350",
+            "700"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 2,
+          "strings": [
+            "中",
+            "Character",
+            "0",
+            "-300",
+            "200",
+            "",
+            "2",
+            "2",
+            "",
+            "",
+            "350",
+            "700"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 3,
+          "strings": [
+            "右",
+            "Character",
+            "540",
+            "-300",
+            "200",
+            "",
+            "2",
+            "2",
+            "",
+            "",
+            "350",
+            "700"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 4,
+          "strings": [
+            "背景",
+            "Bg",
+            "0",
+            "0",
+            "0",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "1920",
+            "1080"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        }
+      ],
+      "name": "Assets/Resources/StoryMode/苍途_第一节start(二次修改).xls:Layer",
+      "type": 1,
+      "textLength": 207,
+      "headerRow": 0
+    },
+    {
+      "rows": [
+        {
+          "rowIndex": 0,
+          "strings": [
+            "Label",
+            "IntervalMin",
+            "IntervalMax",
+            "RandomDouble",
+            "Tag",
+            "Name0",
+            "Duration0",
+            "Name1",
+            "Duration1",
+            "Name2",
+            "Duration2",
+            "Name3",
+            "Duration3",
+            "Name4",
+            "Duration4"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        }
+      ],
+      "name": "Assets/Resources/StoryMode/苍途_第一节start(二次修改).xls:EyeBlink",
+      "type": 1,
+      "textLength": 112,
+      "headerRow": 0
+    },
+    {
+      "rows": [
+        {
+          "rowIndex": 0,
+          "strings": [
+            "Label",
+            "Type",
+            "Interval",
+            "Tag",
+            "ScaleVoiceVolume",
+            "Name0",
+            "Duration0",
+            "Name1",
+            "Duration1",
+            "Name2",
+            "Duration2",
+            "Name3",
+            "Duration3",
+            "Name4",
+            "Duration4"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        }
+      ],
+      "name": "Assets/Resources/StoryMode/苍途_第一节start(二次修改).xls:LipSynch",
+      "type": 1,
+      "textLength": 106,
+      "headerRow": 0
+    },
+    {
+      "rows": [
+        {
+          "rowIndex": 0,
+          "strings": [
+            "*SampleAnimation"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 1,
+          "strings": [
+            "Time",
+            "0",
+            ".5",
+            "1",
+            "1.5",
+            "2"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 2,
+          "strings": [
+            "X",
+            "0",
+            "",
+            "0",
+            "0",
+            "100"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 3,
+          "strings": [
+            "Y",
+            "-50",
+            "50",
+            "0",
+            "0",
+            "0"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 4,
+          "strings": [
+            "Angle",
+            "0",
+            "",
+            "0",
+            "0",
+            "360"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 5,
+          "strings": [
+            "ScaleX",
+            ".2",
+            "1.2",
+            "1",
+            "1",
+            "1"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 6,
+          "strings": [
+            "ScaleY",
+            ".2",
+            "1.2",
+            "1",
+            "1",
+            "1"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 7,
+          "strings": [
+            "Alpha",
+            "0",
+            "1",
+            "1",
+            "1",
+            "1"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        }
+      ],
+      "name": "Assets/Resources/StoryMode/苍途_第一节start(二次修改).xls:Animation",
+      "type": 1,
+      "textLength": 93,
+      "headerRow": 0
+    },
+    {
+      "rows": [
+        {
+          "rowIndex": 0,
+          "strings": [
+            "Label",
+            "Title",
+            "Type",
+            "FileName",
+            "IntroTime",
+            "Volume"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 1,
+          "strings": [
+            "吼叫",
+            "",
+            "Se",
+            "shout.ogg"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 2,
+          "strings": [
+            "脚步声",
+            "",
+            "Se",
+            "foot.ogg"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 3,
+          "strings": [
+            "奔跑声",
+            "",
+            "Se",
+            "run.ogg"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 4,
+          "strings": [
+            "火球爆炸",
+            "",
+            "Se",
+            "boom.ogg"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 5,
+          "strings": [
+            "射箭",
+            "",
+            "Se",
+            "boom.ogg"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 6,
+          "strings": [
+            "旋律1",
+            "",
+            "Se",
+            "HealAudio1.mp3"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 7,
+          "strings": [
+            "旋律2",
+            "",
+            "Se",
+            "HealAudio2.mp3"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        }
+      ],
+      "name": "Assets/Resources/StoryMode/苍途_第一节start(二次修改).xls:Sound",
+      "type": 1,
+      "textLength": 139,
+      "headerRow": 0
+    },
+    {
+      "rows": [
+        {
+          "rowIndex": 0,
+          "strings": [
+            "Label",
+            "Type",
+            "Value",
+            "FileType"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        }
+      ],
+      "name": "Assets/Resources/StoryMode/苍途_第一节start(二次修改).xls:Param",
+      "type": 1,
+      "textLength": 22,
+      "headerRow": 0
+    },
+    {
+      "rows": [
+        {
+          "rowIndex": 0,
+          "strings": [
+            "Name"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 1,
+          "strings": [
+            "Type"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        },
+        {
+          "rowIndex": 2,
+          "strings": [
+            "FileType"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        }
+      ],
+      "name": "Assets/Resources/StoryMode/苍途_第一节start(二次修改).xls:ParamTbl{}",
+      "type": 1,
+      "textLength": 16,
+      "headerRow": 0
+    },
+    {
+      "rows": [
+        {
+          "rowIndex": 0,
+          "strings": [
+            "ScenarioLabel",
+            "Title",
+            "Thumbnail"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        }
+      ],
+      "name": "Assets/Resources/StoryMode/苍途_第一节start(二次修改).xls:SceneGallery",
+      "type": 1,
+      "textLength": 27,
+      "headerRow": 0
+    },
+    {
+      "rows": [
+        {
+          "rowIndex": 0,
+          "strings": [
+            "Key"
+          ],
+          "isEmpty": false,
+          "isCommentOut": false
+        }
+      ],
+      "name": "Assets/Resources/StoryMode/苍途_第一节start(二次修改).xls:Localize",
+      "type": 1,
+      "textLength": 3,
+      "headerRow": 0
+    }
+  ]
+}
