@@ -1,6 +1,6 @@
 # Twirdora-Decryptor-CSharp
 
-<img align="right" width="300" alt="小蓝梦" src="./image/小蓝梦.png">
+<img align="right" width="450" alt="小蓝梦" src="./image/小蓝梦.png">
 
 Encrypt or decrypt files with [Twirdora](https://www.taptap.cn/app/212893) ([QooApp](https://apps.qoo-app.com/app/19984)) encryption method.
 
