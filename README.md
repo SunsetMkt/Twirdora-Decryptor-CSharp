@@ -28,7 +28,7 @@ AES.cs: <https://blog.51cto.com/u_15067234/4312706>
 dotnet build
 ```
 
-## Publish
+## Publish (Portable)
 
 ```shell
 dotnet publish -c Release -o publish -p:PublishReadyToRun=true -p:PublishSingleFile=true -p:PublishTrimmed=true --self-contained true -p:IncludeNativeLibrariesForSelfExtract=true
@@ -37,5 +37,5 @@ dotnet publish -c Release -o publish -p:PublishReadyToRun=true -p:PublishSingleF
 ## Usage
 
 ```shell
-Twirdora-Decryptor.exe <encrypt|decrypt> <input_file> <output_file>
+Twirdora-Decryptor-CSharp.exe <encrypt|decrypt> <input_file> <output_file>
 ```
