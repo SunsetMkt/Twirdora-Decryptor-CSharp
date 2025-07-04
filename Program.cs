@@ -16,8 +16,8 @@ namespace AESDecryptor
             // If no enough args, show help
             if (args.Length < 3)
             {
-                Console.WriteLine("Usage: Twirdora-Decryptor.exe <encrypt|decrypt> <input_file> <output_file>");
-                // Console.WriteLine("Usage: Twirdora-Decryptor.exe batchdecrypt <Twirdora Android Data Directory> <Output Directory>");
+                Console.WriteLine("Usage: " + AppDomain.CurrentDomain.FriendlyName + " <encrypt|decrypt> <input_file> <output_file>");
+                // Console.WriteLine("Usage: " + AppDomain.CurrentDomain.FriendlyName + " batchdecrypt <Twirdora Android Data Directory> <Output Directory>");
                 Console.WriteLine("Encrypt or decrypt files with Twirdora encryption method.");
                 Console.WriteLine("Tested on Twirdora 1.2.4 with password: " + strPassword);
                 Console.WriteLine("Bad command: No enough args.");
@@ -88,7 +88,7 @@ namespace AESDecryptor
                             }
                         }
                     }
-                    catch (System.Exception)
+                    catch (Exception)
                     {
                         // Ignore
                         // If file name ends with .manifest

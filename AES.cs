@@ -44,7 +44,7 @@ namespace Utils
             {
                 MemoryStream m_stream = new MemoryStream();
                 PasswordDeriveBytes pdb = new PasswordDeriveBytes(EncryptKey, m_salt);
-                Byte[] pdbBytes = pdb.GetBytes(32);
+                byte[] pdbBytes = pdb.GetBytes(32);
                 Console.WriteLine("PasswordDeriveBytes: " + Convert.ToBase64String(pdbBytes));
                 ICryptoTransform transform = m_AESProvider.CreateEncryptor(pdbBytes, m_btIV);
                 CryptoStream m_csstream = new CryptoStream(m_stream, transform, CryptoStreamMode.Write);
@@ -98,7 +98,7 @@ namespace Utils
             {
                 MemoryStream m_stream = new MemoryStream();
                 PasswordDeriveBytes pdb = new PasswordDeriveBytes(DecryptKey, m_salt);
-                Byte[] pdbBytes = pdb.GetBytes(32);
+                byte[] pdbBytes = pdb.GetBytes(32);
                 Console.WriteLine("PasswordDeriveBytes: " + Convert.ToBase64String(pdbBytes));
                 ICryptoTransform transform = m_AESProvider.CreateDecryptor(pdbBytes, m_btIV);
                 CryptoStream m_csstream = new CryptoStream(m_stream, transform, CryptoStreamMode.Write);
