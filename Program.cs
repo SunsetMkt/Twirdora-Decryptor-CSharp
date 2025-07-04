@@ -17,9 +17,10 @@ namespace AESDecryptor
             if (args.Length < 3)
             {
                 Console.WriteLine("Usage: Twirdora-Decryptor.exe <encrypt|decrypt> <input_file> <output_file>");
-                Console.WriteLine("Usage: Twirdora-Decryptor.exe batchdecrypt <Twirdora Android Data Directory> <Output Directory>");
-                Console.WriteLine("Encrypt or decrypt files with Twirdora AES algorithm.");
-                Console.WriteLine("Tested on Twirdora 1.2.4");
+                // Console.WriteLine("Usage: Twirdora-Decryptor.exe batchdecrypt <Twirdora Android Data Directory> <Output Directory>");
+                Console.WriteLine("Encrypt or decrypt files with Twirdora encryption method.");
+                Console.WriteLine("Tested on Twirdora 1.2.4 with password: " + strPassword);
+                Console.WriteLine("Bad command: No enough args.");
                 return;
             }
 
@@ -27,17 +28,19 @@ namespace AESDecryptor
 
             if (mode == "encrypt")
             {
+                Console.WriteLine("Encrypting" + args[1] + " to " + args[2]);
                 byte[] EncryptByte = File.ReadAllBytes(args[1]);
                 byte[] Encrypt = Utils.AES.AESEncrypt(EncryptByte, strPassword);
                 File.WriteAllBytes(args[2], Encrypt);
-                Console.WriteLine("Encrypted file: " + args[2]);
+                Console.WriteLine("Done!");
             }
             else if (mode == "decrypt")
             {
+                Console.WriteLine("Decrypting" + args[1] + " to " + args[2]);
                 byte[] DecryptByte = File.ReadAllBytes(args[1]);
                 byte[] Decrypt = Utils.AES.AESDecrypt(DecryptByte, strPassword);
                 File.WriteAllBytes(args[2], Decrypt);
-                Console.WriteLine("Decrypted file: " + args[2]);
+                Console.WriteLine("Done!");
             }
             else if (mode == "batchdecrypt")
             {
@@ -56,6 +59,7 @@ namespace AESDecryptor
                     // Try to Decrypt
                     try
                     {
+                        Console.WriteLine("Decrypting: " + file);
                         byte[] DecryptByte = File.ReadAllBytes(file);
                         byte[] Decrypt = Utils.AES.AESDecrypt(DecryptByte, strPassword);
                         // Save
@@ -100,6 +104,7 @@ namespace AESDecryptor
                         File.Copy(file, outputPath + "\\" + Path.GetFileName(file));
                     }
                 }
+                Console.WriteLine("Done!");
             }
             else
             {

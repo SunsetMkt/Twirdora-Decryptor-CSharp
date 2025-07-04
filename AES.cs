@@ -35,12 +35,16 @@ namespace Utils
             byte[] m_strEncrypt;
             byte[] m_btIV = Convert.FromBase64String("Rkb4jvUy/ye7Cd7k89QQgQ==");
             byte[] m_salt = Convert.FromBase64String("gsf4jvkyhye5/d7k8OrLgM==");
+            Console.WriteLine("EncryptKey: " + EncryptKey);
+            Console.WriteLine("m_btIV: " + Convert.ToBase64String(m_btIV));
+            Console.WriteLine("m_salt: " + Convert.ToBase64String(m_salt));
             Rijndael m_AESProvider = Rijndael.Create();
             try
             {
                 MemoryStream m_stream = new MemoryStream();
                 PasswordDeriveBytes pdb = new PasswordDeriveBytes(EncryptKey, m_salt);
                 ICryptoTransform transform = m_AESProvider.CreateEncryptor(pdb.GetBytes(32), m_btIV);
+                Console.WriteLine("SaltedPasswordHash: " + Convert.ToBase64String(pdb.GetBytes(32)));
                 CryptoStream m_csstream = new CryptoStream(m_stream, transform, CryptoStreamMode.Write);
                 m_csstream.Write(EncryptByte, 0, EncryptByte.Length);
                 m_csstream.FlushFinalBlock();
@@ -84,12 +88,16 @@ namespace Utils
             byte[] m_strDecrypt;
             byte[] m_btIV = Convert.FromBase64String("Rkb4jvUy/ye7Cd7k89QQgQ==");
             byte[] m_salt = Convert.FromBase64String("gsf4jvkyhye5/d7k8OrLgM==");
+            Console.WriteLine("DecryptKey: " + DecryptKey);
+            Console.WriteLine("m_btIV: " + Convert.ToBase64String(m_btIV));
+            Console.WriteLine("m_salt: " + Convert.ToBase64String(m_salt));
             Rijndael m_AESProvider = Rijndael.Create();
             try
             {
                 MemoryStream m_stream = new MemoryStream();
                 PasswordDeriveBytes pdb = new PasswordDeriveBytes(DecryptKey, m_salt);
                 ICryptoTransform transform = m_AESProvider.CreateDecryptor(pdb.GetBytes(32), m_btIV);
+                Console.WriteLine("SaltedPasswordHash: " + Convert.ToBase64String(pdb.GetBytes(32)));
                 CryptoStream m_csstream = new CryptoStream(m_stream, transform, CryptoStreamMode.Write);
                 m_csstream.Write(DecryptByte, 0, DecryptByte.Length);
                 m_csstream.FlushFinalBlock();

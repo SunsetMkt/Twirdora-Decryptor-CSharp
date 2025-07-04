@@ -34,5 +34,4 @@ dotnet publish -c Release -o publish -p:PublishReadyToRun=true -p:PublishSingleF
 
 ```shell
 Twirdora-Decryptor.exe <encrypt|decrypt> <input_file> <output_file>
-Twirdora-Decryptor.exe batchdecrypt <Twirdora Android Data Directory> <Output Directory>
 ```
