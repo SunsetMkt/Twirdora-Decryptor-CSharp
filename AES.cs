@@ -43,8 +43,9 @@ namespace Utils
             {
                 MemoryStream m_stream = new MemoryStream();
                 PasswordDeriveBytes pdb = new PasswordDeriveBytes(EncryptKey, m_salt);
-                ICryptoTransform transform = m_AESProvider.CreateEncryptor(pdb.GetBytes(32), m_btIV);
-                Console.WriteLine("SaltedPasswordHash: " + Convert.ToBase64String(pdb.GetBytes(32)));
+                Byte[] pdbBytes = pdb.GetBytes(32);
+                Console.WriteLine("PasswordDeriveBytes: " + Convert.ToBase64String(pdbBytes));
+                ICryptoTransform transform = m_AESProvider.CreateEncryptor(pdbBytes, m_btIV);
                 CryptoStream m_csstream = new CryptoStream(m_stream, transform, CryptoStreamMode.Write);
                 m_csstream.Write(EncryptByte, 0, EncryptByte.Length);
                 m_csstream.FlushFinalBlock();
@@ -96,8 +97,9 @@ namespace Utils
             {
                 MemoryStream m_stream = new MemoryStream();
                 PasswordDeriveBytes pdb = new PasswordDeriveBytes(DecryptKey, m_salt);
-                ICryptoTransform transform = m_AESProvider.CreateDecryptor(pdb.GetBytes(32), m_btIV);
-                Console.WriteLine("SaltedPasswordHash: " + Convert.ToBase64String(pdb.GetBytes(32)));
+                Byte[] pdbBytes = pdb.GetBytes(32);
+                Console.WriteLine("PasswordDeriveBytes: " + Convert.ToBase64String(pdbBytes));
+                ICryptoTransform transform = m_AESProvider.CreateDecryptor(pdbBytes, m_btIV);
                 CryptoStream m_csstream = new CryptoStream(m_stream, transform, CryptoStreamMode.Write);
                 m_csstream.Write(DecryptByte, 0, DecryptByte.Length);
                 m_csstream.FlushFinalBlock();
