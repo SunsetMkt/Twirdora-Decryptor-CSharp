@@ -4,9 +4,9 @@
 
 Encrypt or decrypt files with [Twirdora](https://www.taptap.cn/app/212893) ([QooApp](https://apps.qoo-app.com/app/19984)) encryption method.
 
-This project is for educational purposes only. All artwork, text and music are the property of Twirdora developers and Pandox Project.
+This project is for educational purposes only. All artwork, text and music are the property of [Twirdora](https://x.com/Twirdora) developers and [Pandox Project](https://x.com/PandoxP).
 
-This encryption method is used to encrypt `PlayerData.json` (save data) and `.wdnmd` files (game assets) in earlier versions (`1.0.*`) of Twirdora. Since they no longer encrypt game assets, I think it's moral to disclose this project.
+This encryption method is used to encrypt `PlayerData.json` (save data) currently and `.wdnmd` files (game assets) in previous versions (`1.0.*`) of Twirdora. Since the developers no longer encrypt game assets, I think it's moral to disclose this project.
 
 ## Quick decryptor for browsers
 

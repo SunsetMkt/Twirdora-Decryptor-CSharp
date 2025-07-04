@@ -1,4 +1,5 @@
 // https://blog.51cto.com/u_15067234/4312706
+// Twirdora developers copied this AES encryption code with hardcoded salt and iv from public Internet resources.
 using System.Security.Cryptography;
 using System.Text;
 
