@@ -14,6 +14,7 @@ Tested on Twirdora 1.2.4.
 
 -   [Encrypt](<https://gchq.github.io/CyberChef/#recipe=AES_Encrypt(%7B'option':'Base64','string':'p1MTzxgZM5M0/%2BNqfP6cSIzBcQfFI4aAnnH%2B3UIu3ws%3D'%7D,%7B'option':'Base64','string':'Rkb4jvUy/ye7Cd7k89QQgQ%3D%3D'%7D,'CBC','Raw','Raw',%7B'option':'Hex','string':''%7D)>)
 -   [Decrypt](<https://gchq.github.io/CyberChef/#recipe=AES_Decrypt(%7B'option':'Base64','string':'p1MTzxgZM5M0/%2BNqfP6cSIzBcQfFI4aAnnH%2B3UIu3ws%3D'%7D,%7B'option':'Base64','string':'Rkb4jvUy/ye7Cd7k89QQgQ%3D%3D'%7D,'CBC','Raw','Raw',%7B'option':'Hex','string':''%7D,%7B'option':'Hex','string':''%7D)>)
+-   [Encrypt save](<https://gchq.github.io/CyberChef/#recipe=JSON_Minify()Encode_text('UTF-8%20(65001)')AES_Encrypt(%7B'option':'Base64','string':'p1MTzxgZM5M0/%2BNqfP6cSIzBcQfFI4aAnnH%2B3UIu3ws%3D'%7D,%7B'option':'Base64','string':'Rkb4jvUy/ye7Cd7k89QQgQ%3D%3D'%7D,'CBC','Raw','Raw',%7B'option':'Hex','string':''%7D)>)
 
 ## With the help of
 
