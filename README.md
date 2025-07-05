@@ -8,9 +8,12 @@ This project is for educational purposes only. All artwork, text and music are t
 
 This encryption method is used to encrypt `PlayerData.json` (save data) currently and `.wdnmd` files (game assets) in previous versions (`1.0.*`) of Twirdora. Since the developers no longer encrypt game assets, I think it's moral to disclose this project.
 
-## Quick decryptor for browsers
+Tested on Twirdora 1.2.4.
 
-[Go to CyberChef](<https://gchq.github.io/CyberChef/#recipe=AES_Decrypt(%7B'option':'Base64','string':'p1MTzxgZM5M0/%2BNqfP6cSIzBcQfFI4aAnnH%2B3UIu3ws%3D'%7D,%7B'option':'Base64','string':'Rkb4jvUy/ye7Cd7k89QQgQ%3D%3D'%7D,'CBC','Raw','Raw',%7B'option':'Hex','string':''%7D,%7B'option':'Hex','string':''%7D)>)
+## Quick encryption or decryption for browsers
+
+-   [Encrypt](<https://gchq.github.io/CyberChef/#recipe=AES_Encrypt(%7B'option':'Base64','string':'p1MTzxgZM5M0/%2BNqfP6cSIzBcQfFI4aAnnH%2B3UIu3ws%3D'%7D,%7B'option':'Base64','string':'Rkb4jvUy/ye7Cd7k89QQgQ%3D%3D'%7D,'CBC','Raw','Raw',%7B'option':'Hex','string':''%7D)>)
+-   [Decrypt](<https://gchq.github.io/CyberChef/#recipe=AES_Decrypt(%7B'option':'Base64','string':'p1MTzxgZM5M0/%2BNqfP6cSIzBcQfFI4aAnnH%2B3UIu3ws%3D'%7D,%7B'option':'Base64','string':'Rkb4jvUy/ye7Cd7k89QQgQ%3D%3D'%7D,'CBC','Raw','Raw',%7B'option':'Hex','string':''%7D,%7B'option':'Hex','string':''%7D)>)
 
 ## With the help of
 
